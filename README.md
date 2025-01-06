@@ -6,7 +6,7 @@ Welcome to my personal portfolio website. This project showcases my skills, proj
 
 ## About
 
-This is a responsive portfolio website designed to highlight my professional background, projects, and skills. The website is built using modern web technologies and provides an engaging and interactive experience for visitors
+This is a responsive portfolio website designed to highlight my professional background, projects, and skills. The website is built using modern web technologies and provides an engaging and interactive experience for visitors.
 
 
 
